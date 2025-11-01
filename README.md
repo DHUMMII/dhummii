@@ -1,43 +1,42 @@
-<h1 align="center">✨ Dhruv ✨</h1>
-<p align="center">
-⚡ <b>Code Alchemist</b> | 🎯 <b>App Enthusiast</b> | 🌐 <b>Web Explorer</b>
-</p>
+<h1 align="center">⚡ Dhruv ⚡</h1>
 
 ---
 
-### 👋 About Me
-Hi, I'm **Dhruv** — passionate about **coding**, **creating**, and constantly **learning** new technologies.  
-I’m currently mastering both **web** and **app development** and love building things that actually work.
+### 👋 About Me  
+Hi, I'm **Dhruv** — a passionate coder who loves experimenting, learning, and creating.  
+Currently exploring **web** and **mobile development** while sharpening my logic and design skills.
 
 ---
 
 ### 🧠 Skills I’m Mastering
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,git,github,vscode&perline=5" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6F61?style=for-the-badge&logo=firefox)](#)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord)](#)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-orange?style=for-the-badge&logo=gmail)](#)
+<p align="center">
+  <a href="mailto:dhruv.verma2772@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dhruv.verma2772%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/dhruv_0789">
+    <img src="https://img.shields.io/badge/Discord-dhruv__0789-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### ⚙️ Currently Exploring
-🚀 React Native app development  
-🌈 Building modern UIs with TypeScript  
-🐍 Python for automation and small tools  
+- 🚀 Building cross-platform apps with **React Native**  
+- 🌈 Writing clean, scalable **TypeScript** code  
+- 🐍 Automating mini projects in **Python**
 
 ---
 
-### 📊 GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <i>“Keep experimenting, keep building — that’s how magic happens.”</i>
+</p>
